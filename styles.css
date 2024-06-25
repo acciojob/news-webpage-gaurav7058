@@ -39,7 +39,7 @@ body{
      }
      .main-para{
       width: 90%;
-		 max-height:400px;
+	  max-height:400px;
      }
      /* pictorial-news-section- */
      .pictorial-news-section{
@@ -49,7 +49,7 @@ body{
       padding: 20px;
       margin-right: 94px;
 	  border-radius:18px;
-	  text-align:end;
+	  text-align:center;
      }
      .pictorial-news-section img{
         width: 90%;
